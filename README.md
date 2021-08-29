@@ -1,2 +1,2 @@
 # programas
-Repositório onde eu vou colocar programas criados por mim
+Repositório onde eu vou colocar websites criados por mim
