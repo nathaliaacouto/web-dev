@@ -1,0 +1,57 @@
+.txt-white {
+        color: white;
+}
+
+.txt-black {
+        color: black;
+}
+
+.mg-10 {
+        margin: 10px;
+}
+
+.pd-10 {
+        padding: 10px;
+}
+
+.nav {
+        padding: 10px;
+}
+
+.nav-link {
+        color: white;
+}
+
+.nav-item :hover {
+        color: red;
+}
+
+.post-sm {
+        background-color: white;
+        text-align: center;
+        width: 1000px;
+}
+
+.post-sm :hover {
+        color: red;
+}
+
+.collum {
+        width: 340px;
+        height: 200px;
+        margin-left: 50px;
+        float: left;
+}
+
+.post:hover {
+        cursor: pointer;
+        text-decoration: none;
+}
+
+.img-post {
+        max-width: 100%;
+}
+
+a {
+        text-decoration-color: red;
+}
